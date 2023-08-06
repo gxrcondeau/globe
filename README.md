@@ -1,4 +1,4 @@
-Fixed version of [Globe](https://github.com/adamsky/globe/blob/) by [adamsky]()
+Fixed version of [Globe](https://github.com/adamsky/globe) by [adamsky](https://github.com/adamsky)
 ![](.github/globe_logo.png)
 
 Render an ASCII globe in your terminal. Make it interactive or just let it
