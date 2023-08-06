@@ -1,9 +1,9 @@
 [package]
 name = "globe-cli"
 version = "0.2.0"
-authors = ["adamsky <adamsky@enum.space>"]
+authors = ["gxrcondeau <gxrcondeau@gmail.com>"]
 edition = "2018"
-repository = "https://github.com/adamsky/globe"
+repository = "https://github.com/gxrcondeau/globe"
 description = "Display an interactive ASCII globe in your terminal."
 keywords = ["interactive", "ASCII", "globe", "terminal", "cli"]
 readme = "README.md"

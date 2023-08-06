@@ -1,9 +1,9 @@
 [package]
 name = "globe"
 version = "0.2.0"
-authors = ["adamsky <adamsky@enum.space>"]
+authors = ["gxrcondeau <gxrdcondeau@gmail.com>"]
 edition = "2018"
-repository = "https://github.com/adamsky/globe"
+repository = "https://github.com/gxrcondeau/globe"
 description = "Customizable ASCII globe generator."
 keywords = ["interactive", "ASCII", "globe", "terminal"]
 readme = "README.md"
